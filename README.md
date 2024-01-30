@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta <title> <h2>вирусы </h2> </title> 
+<meta <title> <h2>вирусы </h2> 
 <meta name="author" content="bwtfhc">
 <meta name="description" content="виды антивирусов">
 <meta name="keywords" content="антивирус">
