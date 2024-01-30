@@ -4,7 +4,7 @@
 <meta name="description" content="виды антивирусов">
 <meta name="keywords" content="антивирус">
 
-<title><h2>вирусы </h2></title>
+<title> <h2>вирусы </h2> </title>
 
 </head>
 <body>
