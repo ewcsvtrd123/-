@@ -2,9 +2,10 @@
 <head>
 <meta name="author" content="bwtfhc">
 <meta name="description" content="виды антивирусов">
-<meta name="keywords" content="антивирус"
+<meta name="keywords" content="антивирус">
 
 <title>антивирусы </title>
+
 </head>
 <body>
 <h1>что такое вирус? </h1> 
@@ -14,4 +15,11 @@
   <li>загрузочные вирусы </li>
   <li>вирусы-спутники </li>
   <li>стелс-вирусы </li>
+</ol>
+<p><big>вредоносные программы других типов: </big></p>
+<ol>
+  <li>троянские программы </li>
+  <li>программы-черви </li>
+  <li>логические бомбы</li>
+  
 </ol>
